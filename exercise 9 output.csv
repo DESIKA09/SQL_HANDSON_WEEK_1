@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+supplier_id_Id,int,NO,,NULL,
+supplier_name,varchar(50),NO,,NULL,
+address,varchar(50),YES,,NULL,
+city,varchar(50),YES,,NULL,
+state,varchar(25),YES,,NULL,
+zip_code,varchar(10),YES,,NULL,
